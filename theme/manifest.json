@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "A theme with dark popups",
+  "version": "0.1",
+
+  "theme": {
+    "colors": {
+      "accentcolor": "#414042",
+      "textcolor": "#b2b2b3",
+
+      "popup": "#4d4d4f",
+      "popup_border": "#414042",
+      "popup_text": "#b2b2b3"
+    }
+  }
+}

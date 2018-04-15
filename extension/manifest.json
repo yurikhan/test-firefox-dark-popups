@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Extension with a popup",
+  "version": "0.1",
+
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "16": "customize.svg"
+    },
+    "default_title": "Test popup",
+    "default_popup": "popup.html"
+  }
+}
